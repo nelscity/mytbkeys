@@ -1,5 +1,5 @@
 # mytbkeys
-My shortcuts for thunderbird using [tbkeys](https://github.com/wshanks/tbkeys) that generally try to add my Gmail habits
+My shortcuts for thunderbird using [tbkeys](https://github.com/wshanks/tbkeys) that generally try to add my Gmail habits, copy-paste into "main key bindings"
 
 ```
 {
